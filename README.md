@@ -331,11 +331,11 @@ This project is licensed under the ISC License - see the LICENSE file for detail
 
 ## 👨‍💻 Author
 
-**Saikat Mukherjee**
+**Vishal Sharma**
 
 ## 🤝 Support
 
-For support, email your_email@example.com or open an issue in the repository.
+For support, email vishalsharma.lcs@gmail.com or open an issue in the repository.
 
 ## 🔗 Useful Links
 
